@@ -1,0 +1,27 @@
+==========================================
+SLURM_JOB_ID = 26840060
+SLURM_JOB_NODELIST = e23-02
+TMPDIR = /tmp/SLURM_26840060
+==========================================
+/home1/yashprag/.conda/envs/vae/lib/python3.9/site-packages/torch/utils/data/dataloader.py:617: UserWarning: This DataLoader will create 20 worker processes in total. Our suggested max number of worker in current system is 4, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(
+Epoch 1, Total Loss: 177.23, Reproduction Loss: 176.07, KLD: 1.15
+Epoch 2, Total Loss: 157.53, Reproduction Loss: 156.71, KLD: 0.82
+Epoch 3, Total Loss: 153.27, Reproduction Loss: 152.50, KLD: 0.76
+Epoch 4, Total Loss: 150.81, Reproduction Loss: 150.06, KLD: 0.74
+Epoch 5, Total Loss: 148.78, Reproduction Loss: 148.06, KLD: 0.72
+Epoch 6, Total Loss: 147.15, Reproduction Loss: 146.46, KLD: 0.69
+Epoch 7, Total Loss: 146.12, Reproduction Loss: 145.43, KLD: 0.69
+Epoch 8, Total Loss: 144.89, Reproduction Loss: 144.22, KLD: 0.67
+Epoch 9, Total Loss: 144.05, Reproduction Loss: 143.38, KLD: 0.67
+Epoch 10, Total Loss: 143.47, Reproduction Loss: 142.82, KLD: 0.64
+Epoch 11, Total Loss: 143.19, Reproduction Loss: 142.54, KLD: 0.65
+Epoch 12, Total Loss: 142.63, Reproduction Loss: 141.97, KLD: 0.66
+Epoch 13, Total Loss: 141.88, Reproduction Loss: 141.23, KLD: 0.65
+Epoch 14, Total Loss: 141.38, Reproduction Loss: 140.73, KLD: 0.65
+Epoch 15, Total Loss: 141.13, Reproduction Loss: 140.48, KLD: 0.65
+Epoch 16, Total Loss: 141.12, Reproduction Loss: 140.49, KLD: 0.63
+Epoch 17, Total Loss: 140.39, Reproduction Loss: 139.76, KLD: 0.63
+Epoch 18, Total Loss: 140.11, Reproduction Loss: 139.48, KLD: 0.63
+Epoch 19, Total Loss: 139.46, Reproduction Loss: 138.82, KLD: 0.64
+Epoch 20, Total Loss: 139.50, Reproduction Loss: 138.87, KLD: 0.63
